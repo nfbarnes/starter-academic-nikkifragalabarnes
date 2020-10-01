@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nikki Fragala Barnes is an arts and humanities scholar and professor of English at the University of Central Florida. Research interests include land-based public histories, accessibility, monuments, and digital deterioraton. She serves as an Ethics Ambasador with the Center for Ethics, which works to  integrate ethics within all areas of research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nikki Fragala Barnes is also an editor, curator, experimental poet and participatory installation artist.
