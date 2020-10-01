@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of English
+role: Doctoral Student, Humanities Scholar, English Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,24 @@ organizations:
   url: "www.ucf.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include booka.
+bio: My research interests include land-based public histories, accessibility, digital humanities, landmarks + monuments, multilingual works in translation, critical race theory, technofeminism, and design justice.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Materiality of text
+- Ethics of data use, privacy, and consent
+- Place-based archives
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Student in Texts and Technology
+    institution: University of Central Florida
+    year: 2024
+  - course: MFA, Creative Writing, Poetry in the Expanded Field
+    institution: MFA of the Americas, Stetson University
+    year: 2018
+  - course: BA + MEd, English Literature + Composition
+    institution: University of Florida
+    year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/bynikkibarnes
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
