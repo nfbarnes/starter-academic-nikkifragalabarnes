@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student, Humanities Scholar, English Professor
+role: Doctoral Student | Humanities Scholar | English Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "www.ucf.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include land-based public histories, accessibility, digital humanities, landmarks + monuments, multilingual works in translation, critical race theory, technofeminism, and design justice.
+bio: My research interests include land-based public histories, accessibility, digital humanities, landmarks + monuments, multilingual works in translation, alongside data use (privacy + consent) and design justice.
 
 interests:
 - Materiality of text
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nikki Fragala Barnes is an arts and humanities scholar and professor of English at the University of Central Florida. Research interests include land-based public histories, accessibility, monuments, and digital deterioraton. She serves as an Ethics Ambasador with the Center for Ethics, which works to  integrate ethics within all areas of research.
+Nikki Fragala Barnes is an arts and humanities scholar and professor of English at the University of Central Florida. Research interests include land-based public histories, accessibility, monuments, and digital deterioration. She serves as an Ethics Ambassador with the Center for Ethics, which works to  integrate ethics within all areas of research.
 
 Nikki Fragala Barnes is also an editor, curator, experimental poet and participatory installation artist.
