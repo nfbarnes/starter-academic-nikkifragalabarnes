@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student | Humanities Scholar | English Professor
+role: Doctoral Student | Professor | Humanities Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:nfbarnes@knights.ucf.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bynikkibarnes
