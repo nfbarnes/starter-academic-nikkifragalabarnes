@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nikki Fragala Barnes is an arts and humanities scholar and professor of English at the University of Central Florida. Research interests include land-based public histories, accessibility, monuments, and digital deterioration. She serves as an Ethics Ambassador with the Center for Ethics, which works to  integrate ethics within all areas of research.
+Nikki Fragala Barnes is an arts and humanities scholar and professor of Creative Writing at the University of Central Florida. Research interests include digital ethics of consent, land-based public histories, archives, monuments, and digital deterioration. She serves as an Ethics Ambassador with the Center for Ethics, which works to  integrate ethics within all areas of research.
 
 Nikki Fragala Barnes is also an editor, curator, experimental poet and participatory installation artist.
