@@ -55,12 +55,28 @@ date_format = "Jan 2006"
   company_url = "https://www.facebook.com/CityArtsOrlando/"
   location = "Orlando, Florida"
   date_start = "2016-06-01"
-  date_end = "2019-08-31"
+  date_end = "2019-07-31"
   description = """
   Responsibilities include:
   
   * AP Studio Art Boot Camp
   * Program delivery + design
+
+  """
+
+  [[experience]]
+  title = "Communications Consultant"
+  company = "Winter Park Public Library"
+  company_url = "https://www.wppl.org"
+  location = "Winter Park, Florida"
+  date_start = "2005-11-01"
+  date_end = "2016-05-31"
+  description = """
+  Responsibilities include:
+  
+  * Donor Relations, Community Relations
+  * Social Media
+  * Events
 
   """
 +++
