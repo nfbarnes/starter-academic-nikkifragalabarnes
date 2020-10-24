@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
+  title = "Adjunct Professor"
   company = "Valencia College"
   company_url = "https://www.valenciacollege.edu"
   location = "Orlando, Florida"
@@ -49,4 +49,18 @@ date_format = "Jan 2006"
 
   """
 
+[[experience]]
+  title = "Instructor, Lead"
+  company = "CityArts Studio Gallery"
+  company_url = "https://www.facebook.com/CityArtsOrlando/"
+  location = "Orlando, Florida"
+  date_start = "2016-06-01"
+  date_end = "2019-08-31"
+  description = """
+  Responsibilities include:
+  
+  * AP Studio Art Boot Camp
+  * Program delivery + design
+
+  """
 +++
