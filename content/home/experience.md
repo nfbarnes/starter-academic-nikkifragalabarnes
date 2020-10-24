@@ -40,6 +40,12 @@ date_format = "Jan 2006"
   location = "Orlando, Florida"
   date_start = "2019-08-01"
   date_end = "2020-07-31"
-  description = """Taught Composition, 1101 and 1102."""
+  description = """
+  Responsibilities include:
+  
+  * ENC 1102 | ENC 1101
+  * Course delivery + design
+  * Visiting Authors Series
+  * Spring Arts Week
 
 +++
