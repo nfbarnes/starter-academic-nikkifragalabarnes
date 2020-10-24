@@ -45,7 +45,6 @@ date_format = "Jan 2006"
   
   * ENC 1102 | ENC 1101
   * Course delivery + design
-  * Visiting Authors Series
   * Spring Arts Week
 
   """
