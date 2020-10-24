@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
+  * CRW 3310 | CRW 3053 | CRW 3013
   * Course delivery + design
   * Workshop + critique
 
