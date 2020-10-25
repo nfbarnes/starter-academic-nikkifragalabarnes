@@ -100,11 +100,11 @@ address = {street = "4000 Central Florida Blvd.", city = "Orlando", region = "FL
 coordinates = {latitude = "28.6024", longitude = "-81.2001"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Please call ahead and complete COVID pre-check"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["By appointment"]
+office_hours = ["By appointment only"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
