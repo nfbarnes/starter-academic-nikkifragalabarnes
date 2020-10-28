@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: http://www.floridastatepoetsassociation.org/wp-content/uploads/2020/10/Nov-Dec-2020-OPAP.pdf
 url_code:
 url_dataset:
 url_poster:
