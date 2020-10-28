@@ -23,6 +23,7 @@ bio: My research interests include land-based public histories, accessibility, d
 interests:
 - Materiality of text
 - Ethics of data use, privacy, and consent
+- Curatorial practice that centers non-dominant public histories
 - Place-based archives
 
 education:
