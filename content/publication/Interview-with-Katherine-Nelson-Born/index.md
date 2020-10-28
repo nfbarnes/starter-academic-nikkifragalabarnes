@@ -16,7 +16,7 @@ publishDate: 2020-10-28T18:27:57-04:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Of Poets and Poetry by Florida State Poets Association"
+publication: ""
 publication_short: ""
 
 abstract: ""
