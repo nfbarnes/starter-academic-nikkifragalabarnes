@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Intervew with Katherine Nelson Born"
+title: "Interview with Katherine Nelson Born"
 authors: []
 date: 2020-10-28T18:27:57-04:00
 doi: ""
