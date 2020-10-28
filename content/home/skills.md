@@ -27,10 +27,10 @@ subtitle = ""
   description = "90%"  
   
 [[feature]]
-  icon = "markdown"
-  icon_pack = "fab"
-  name = "Markdown"
-  description = "50%"
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Pedagogy"
+  description = "90%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
