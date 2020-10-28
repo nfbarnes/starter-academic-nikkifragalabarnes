@@ -21,10 +21,10 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "git"
+  icon = "google"
   icon_pack = "fab"
-  name = "Git"
-  description = "60%"  
+  name = "Google"
+  description = "90%"  
   
 [[feature]]
   icon = "markdown"
