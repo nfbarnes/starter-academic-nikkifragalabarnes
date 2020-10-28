@@ -27,7 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * CRW 3310 | CRW 3053 | CRW 3013
+  * CRW 3310: Intermediate Poetry Writing Workshop
+  * CRW 3013: Creative Writing for English Majors
   * Course delivery + design
   * Workshop + critique
 
@@ -43,7 +44,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * ENC 1102 | ENC 1101
+  * ENC 1101 + 1102: Freshmen Compositon I + II
   * Course delivery + design
   * Spring Arts Week
 
