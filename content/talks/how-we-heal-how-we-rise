@@ -1,8 +1,12 @@
 ---
-title: "How We Rise"
-event: Juneteenth Community Conversation
+# Documentation: https://sourcethemese.com/academic/docs/managing-content
+
+title: "How We Rise, How We Heal"
+event: Juneteenth: A Community Conversation
 event_url: https://www.artofcollab.org/workshops
 location: Orlando
+
+# Talk start and end times.
 date: 2020-06-20T18:51:02:00
 draft: true
 ---
