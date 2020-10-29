@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Retreat in a Box"
-summary: ""
+summary: "A Humanities project for meditation and self-care in the C19 landscape"
 authors: []
 tags: []
 categories: []
-date: 2020-10-28T19:53:44-04:00
+date: 2021-01-01T19:53:44-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
