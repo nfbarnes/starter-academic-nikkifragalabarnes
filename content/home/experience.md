@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * CRW 3310: Intermediate Poetry Writing Workshop
+  * CRW 3053: Theories of Creative Writing
   * CRW 3013: Creative Writing for English Majors
   * Course delivery + design
   * Workshop + critique
