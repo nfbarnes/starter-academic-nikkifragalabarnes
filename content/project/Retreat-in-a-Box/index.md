@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Retreat in a Box"
-summary: "A Humanities project for meditation and self-care during COVID-19"
+title: "Making History: Historic Winter Park"
+summary: "A narrative data project restoring and reclaiming"
 authors: []
 tags: []
 categories: []
