@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include land-based public histories, accessibility, digital humanities, landmarks + monuments, multilingual works in translation, alongside data use (privacy + consent) and design justice.
 
 interests:
-- Materiality of text
+- Materiality of text and Critical making
 - Ethics of data use, privacy, and consent
 - Curatorial practice centering non-dominant public histories
 - Place-based archives
