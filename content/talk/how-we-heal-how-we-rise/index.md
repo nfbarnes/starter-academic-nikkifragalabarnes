@@ -65,4 +65,33 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+title: "Experimental Poetry with the Ancient City Poets"
+event: "Monthly Featured Guest and Open Mic"
+event_url: "https://www.youtube.com/watch?v=WElyLDWUmVY"
+location:
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
+summary:
+abstract:
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2020-06-20T15:00:26-04:00
+# date_end: 2020-06-20T17:30:26-04:00
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: 2020-10-28T17:30:26-04:00
+
+authors: []
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
 ---
